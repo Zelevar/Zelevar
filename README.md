@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @Zelevar
+- 👋 Hi, I’m Zelevar
 - 👀 I’m interested in coding, hacking, gaming, game-dev and game-design.
-- 🌱 I’m currently learning Python, C#.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning **Python**.
+- 💡 Iʼm develop software and sometimes web applications. 
 - 📫 How to reach me
-  - test
+  - ✉️ Mail: vitaly.parakhnevich@gmail.com
+  - 💎 Discord: Zelevar#5787
 
 <!---
 Zelevar/Zelevar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
