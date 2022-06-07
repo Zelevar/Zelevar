@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zelevar
 - 👀 I’m interested in coding, hacking, gaming, game-dev and game-design.
-- 🌱 I’m currently learning **Python**.
+- 🌱 I’m currently learning **Python**, **node.js**.
 - 💡 Iʼm develop software and sometimes web applications. 
 - 📫 How to reach me
   - ✉️ Mail: vitaly.parakhnevich@gmail.com
