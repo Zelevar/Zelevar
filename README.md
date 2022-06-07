@@ -4,7 +4,7 @@
 - 💡 Iʼm develop software and sometimes web applications. 
 - 📫 How to reach me
   - ✉️ Mail: vitaly.parakhnevich@gmail.com
-  - 💎 Discord: Zelevar#5787
+  - 💎 Discord: Zelevar#8269
 
 <!---
 Zelevar/Zelevar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
