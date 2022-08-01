@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vitaly --- **` AKA `** Zelevar
+- 👋 Hi, I’m Vitaly <br/> **` AKA `** Zelevar
 - 👀 I’m interested in coding, hacking and gaming.
 - 🌱 I’m currently learning **C++** and **Python**.
 - 💡 Iʼm develop software and sometimes web applications. 
