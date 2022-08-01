@@ -4,4 +4,4 @@
 - 💡 Iʼm develop software and sometimes web applications. 
 - 📫 How to reach me
   - ✉️ Mail: vitaly.parakhnevich@gmail.com
-  - <img align="center" width="22px" height="22px" src="https://discord.com/assets/2d20a45d79110dc5bf947137e9d99b66.svg" alt="Discord"> Zelevar#8269
+  - <img align="center" width="22px" height="22px" src="discord.png" alt="Discord"> Zelevar#8269
